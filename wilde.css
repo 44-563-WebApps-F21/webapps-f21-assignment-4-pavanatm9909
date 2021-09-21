@@ -1,0 +1,9 @@
+p{font-style: normal;font-size: 10;}
+
+span.a{color: green;background-color: rgb(240, 134, 134);}
+#direct{color: red;}
+.n1{color:rgb(16, 56, 141);}
+.n2{color: rgb(5, 117, 5);}
+#title{color:maroon;}
+span.char{color: black;}
+span.a:hover{background-color: brown;color: black;}
