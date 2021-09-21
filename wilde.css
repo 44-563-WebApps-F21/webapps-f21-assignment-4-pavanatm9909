@@ -31,3 +31,8 @@ tr:nth-child(even)
     padding: .3em;
     text-align: center;
 }
+.name:hover
+{
+    color: rgb(238, 117, 69); 
+    text-shadow: 1px 1px 3px #9472f1;
+}
