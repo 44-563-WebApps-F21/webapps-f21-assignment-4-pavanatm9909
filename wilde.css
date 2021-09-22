@@ -1,12 +1,39 @@
-p{font-style:normal; font-family:'Times New Roman', Times, serif;}
+p
+{
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+}
 
-span.a{color: green;background-color: rgb(240, 134, 134);}
-#direct{color: red;}
-.n1{color:rgb(16, 56, 141);}
-.n2{color: rgb(5, 117, 5);}
-#title{color:maroon;}
-span.char{color: black;}
-span.a:hover{background-color: brown;color: black;}
+span.a
+{
+    color: green;
+    background-color: rgb(240, 134, 134);
+}
+#direct
+{
+    color: red;
+}
+.n1
+{
+    color:rgb(16, 56, 141);
+}
+.n2
+{
+    color: rgb(5, 117, 5);
+}
+#title
+{
+    color:maroon;
+}
+span.char
+{
+    color: black;
+}
+span.a:hover
+{
+    background-color: brown;
+    color: black;
+}
 
 table{
     border: 2px solid black;
@@ -36,3 +63,19 @@ tr:nth-child(even)
     color: rgb(238, 117, 69); 
     text-shadow: 1px 1px 3px #9472f1;
 }
+.navbar {
+    overflow: hidden;
+    background-color: rgb(100, 94, 94);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+  }
