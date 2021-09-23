@@ -68,7 +68,6 @@ tr:nth-child(even)
 .navbar {
     overflow: hidden;
     background-color: rgb(100, 94, 94);
-    position: fixed;
     bottom: 0;
     width: 100%;
   }
